@@ -1,0 +1,36 @@
+Task 8 – VPN Usage and Privacy Report
+
+Tool Used:
+Proton VPN (Free Version)
+
+Purpose:
+The purpose of this task is to understand how a VPN protects user privacy by encrypting network traffic and masking the real IP address.
+
+Procedure:
+1. A free Proton VPN account was created.
+2. Proton VPN client was downloaded and installed on Windows.
+3. The original public IP address was identified using an IP lookup website.
+4. The VPN was connected to a secure server.
+5. After connection, the IP address and location changed.
+6. HTTPS encryption was verified through browser security indicators.
+7. VPN was disconnected and IP reverted to original.
+
+Findings:
+- VPN successfully hid the real IP address.
+- Network traffic was encrypted during VPN usage.
+- Location masking was effective.
+- Secure browsing was maintained.
+
+Advantages of VPN:
+- Protects privacy
+- Encrypts internet traffic
+- Prevents IP tracking
+- Secures data on public Wi-Fi
+
+Limitations:
+- Free VPN has speed and data limitations
+- VPN does not block malware or phishing attacks
+- Complete anonymity is not guaranteed
+
+Conclusion:
+Proton VPN effectively demonstrated how VPNs enhance online privacy and security. VPN usage is recommended as part of a layered security approach.
